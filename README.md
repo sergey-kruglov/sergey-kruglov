@@ -4,6 +4,24 @@
 - 🌱 I’m currently learning Python and Java
 - 💬 Ask me about anything
 
+#### Main Skills
+
+- JavaScript/TypeScript
+- Express.js/Nest.js
+- MongoDB
+- PostgreSQL/MySQL
+- RabbitMQ
+- Redis
+- Vue.js/Nuxt.js
+
+#### Have experience with
+
+- Android/iOS
+- Flutter/Dart
+- GoLang/Gin
+- Java/Spring
+- Clojure
+
 <!--
 **sergey-kruglov/sergey-kruglov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
