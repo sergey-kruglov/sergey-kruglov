@@ -18,6 +18,7 @@ My name is Sergey, and I'm a fullstack developer with 5+ years of experience.
 
 #### Have experience with
 
+- PHP/Laravel
 - Android/iOS
 - Flutter/Dart
 - GoLang/Gin
