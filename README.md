@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Sergey, and I'm a fullstack developer with 5+ years of experience.
+My name is _Sergey_, and I'm a fullstack developer with 5+ years of experience.
 
 - 🔭 I’m currently working on Telegram Bot
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning _Python_ and _Java_
 - 💬 Ask me about anything
 
 #### Main Skills
