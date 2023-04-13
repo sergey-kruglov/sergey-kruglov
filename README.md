@@ -3,7 +3,7 @@
 My name is _Sergey_, and I'm a fullstack developer with 5+ years of experience.
 
 - 🔭 I’m currently working on Telegram Bot
-- 🌱 I’m currently learning _Python_ and _Java_
+- 🌱 I’m currently learning _Python_
 - 💬 Ask me about anything
 
 #### Main Skills
