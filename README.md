@@ -18,6 +18,7 @@ My name is _Sergey_, and I'm a fullstack developer with 5+ years of experience.
 
 #### Have experience with
 
+- Python/Django
 - PHP/Laravel
 - Android/iOS
 - Flutter/Dart
