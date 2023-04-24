@@ -5,6 +5,7 @@ My name is _Sergey_, and I'm a fullstack developer with 5+ years of experience.
 - 🔭 I’m currently working on Telegram Bot
 - 🌱 I’m currently learning _Python_ and _Django_
 - 💬 Ask me about anything
+- 💻 Open for OSP
 
 #### Main Skills
 
@@ -15,13 +16,14 @@ My name is _Sergey_, and I'm a fullstack developer with 5+ years of experience.
 - RabbitMQ
 - Redis
 - Vue.js/Nuxt.js
+- Elasticsearch
 
 #### Have experience with
 
 - Python/Django
-- PHP/Laravel
-- Android/iOS
-- Flutter/Dart
 - GoLang/Gin
+- PHP/Laravel
+- Flutter/Dart
+- Android/iOS
 - Java/Spring
 - Clojure
