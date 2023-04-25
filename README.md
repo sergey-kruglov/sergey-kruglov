@@ -10,6 +10,7 @@ My name is _Sergey_, and I'm a fullstack developer with 5+ years of experience.
 #### Main Skills
 
 - JavaScript/TypeScript
+- Node.js
 - Express.js/Nest.js
 - MongoDB
 - PostgreSQL/MySQL
