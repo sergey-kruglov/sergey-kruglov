@@ -2,7 +2,7 @@
 
 My name is _Sergey_, I'm a fullstack developer with 5+ years of experience.
 
-- 🔭 I’m currently working on Django project
+- 🔭 I’m currently working on Telegram project
 - 🌱 I’m currently learning _Python_ and _Django_
 - 💬 Ask me about anything
 - 💻 Open for OSP
