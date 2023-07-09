@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is _Sergey_, I'm a fullstack developer with 5+ years of experience.
+My name is _Sergey_, and I'm a full-stack developer with 5+ years of experience.
 
-- 🔭 I’m currently working on Telegram project
+- 🔭 I’m currently working on a Telegram project
 - 🌱 I’m currently learning _Python_ and _Django_
 - 💬 Ask me about anything
 - 💻 Open for OSP
@@ -22,7 +22,7 @@ My name is _Sergey_, I'm a fullstack developer with 5+ years of experience.
 #### Have experience with
 
 - Python/Django
-- GoLang/Gin
+- Go/Gin
 - PHP/Laravel
 - Flutter/Dart
 - Android/iOS
