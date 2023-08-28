@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-My name is _Sergey_, and I'm a full-stack developer with 5+ years of experience.
+My name is **_Sergey_**, and I'm a **full-stack developer** with **5+ years** of experience.
 
 - 🔭 I’m currently working on a Telegram project
-- 🌱 I’m currently learning _Python_ and _Django_
+- 🌱 I’m currently learning _Algorithms and Data Structures_
 - 💬 Ask me about anything
 - 💻 Open for OSP
 
 #### Main Skills
 
-- JavaScript/TypeScript
-- Node.js
+- **JavaScript**/**TypeScript**
+- **Node.js**
 - Express.js/Nest.js
 - MongoDB
 - PostgreSQL/MySQL
