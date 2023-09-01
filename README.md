@@ -2,7 +2,7 @@
 
 My name is **_Sergey_**, and I'm a **full-stack developer** with **5+ years** of experience.
 
-- 🔭 I’m currently working on a Telegram project
+- 🔭 I’m currently working on a _Template file generator_
 - 🌱 I’m currently learning _Algorithms and Data Structures_
 - 💬 Ask me about anything
 - 💻 Open for OSP
