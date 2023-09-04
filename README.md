@@ -18,6 +18,7 @@ My name is **_Sergey_**, and I'm a **full-stack developer** with **5+ years** of
 - Redis
 - Vue.js/Nuxt.js
 - Elasticsearch
+- Firebase
 
 #### Have experience with
 
@@ -27,4 +28,4 @@ My name is **_Sergey_**, and I'm a **full-stack developer** with **5+ years** of
 - Flutter/Dart
 - Android/iOS
 - Java/Spring
-- Clojure
+- C#/.Net
