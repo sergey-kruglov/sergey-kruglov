@@ -7,25 +7,14 @@ My name is **_Sergey_**, and I'm a **full-stack developer** with **6+ years** of
 - 💬 Ask me about anything
 - 💻 Open for OSP
 
-#### Main Skills
 
-- **JavaScript**/**TypeScript**
-- **Node.js**
-- Express.js/Nest.js
-- MongoDB
-- PostgreSQL/MySQL
-- RabbitMQ
-- Redis
-- Vue.js/Nuxt.js
-- Elasticsearch
-- Firebase
+### Skills
 
-#### Have experience with
+#### Languages
+[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,go,java,php,clojure,dart)](https://skillicons.dev)
 
-- Python/Django
-- Go/Gin
-- PHP/Laravel
-- Flutter/Dart
-- Android/iOS
-- Java/Spring
-- C#/.Net
+#### Databases
+[![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,cassandra)](https://skillicons.dev)
+
+#### Cloud
+[![Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,github,gitlab,postman,stackoverflow,sentry)](https://skillicons.dev)
