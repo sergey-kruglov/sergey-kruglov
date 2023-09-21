@@ -10,7 +10,7 @@ My name is **_Sergey_**, and I'm a **full-stack developer** with **6+ years** of
 ### Skills
 
 #### Languages
-[![Skills](https://skillicons.dev/icons?i=js,ts,py,go,java,php,clojure,dart)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,py,go,java,php,dart)](https://skillicons.dev)
 
 #### Frontend
 [![Skills](https://skillicons.dev/icons?i=html,css,vue,nuxtjs,bootstrap,babel)](https://skillicons.dev)
