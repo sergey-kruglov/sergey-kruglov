@@ -7,28 +7,5 @@ My name is **_Sergey_**, and I'm a **full-stack developer** with **6+ years** of
 - 💬 Ask me about anything
 - 💻 Open for OSP
 
-### Skills
-
-#### Languages
-[![Skills](https://skillicons.dev/icons?i=js,ts,py,go,java,php,dart)](https://skillicons.dev)
-
-#### Frontend
-[![Skills](https://skillicons.dev/icons?i=html,css,vue,nuxtjs,bootstrap,babel)](https://skillicons.dev)
-
-#### Backend
-[![Skills](https://skillicons.dev/icons?i=nodejs,deno,express,nestjs,spring,laravel)](https://skillicons.dev)
-
-#### Databases
-[![Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,sqlite,cassandra)](https://skillicons.dev)
-
-#### Message brokers
-[![Skills](https://skillicons.dev/icons?i=rabbitmq,redis)](https://skillicons.dev)
-
-#### Cloud
-[![Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,cloudflare,github,gitlab,stackoverflow,sentry)](https://skillicons.dev)
-
-#### Tools
-[![Skills](https://skillicons.dev/icons?i=idea,vscode,git,postman,vim,neovim,figma)](https://skillicons.dev)
-
-#### Other
-[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,reactivex,graphql,apollo,jest,flutter,bash,regex,md,jenkins,nginx,grafana,githubactions,bots,linux)](https://skillicons.dev)
+#### Skills
+[![Skills](https://skillicons.dev/icons?i=js,ts,py,go,java,php,dart,html,css,vue,nuxtjs,bootstrap,babel,nodejs,deno,express,nestjs,spring,laravel,mongodb,postgres,redis,mysql,sqlite,cassandra,rabbitmq,aws,gcp,firebase,cloudflare,github,gitlab,stackoverflow,sentry,idea,vscode,git,postman,vim,neovim,figma,docker,kubernetes,reactivex,graphql,apollo,jest,flutter,bash,regex,md,jenkins,nginx,grafana,githubactions,bots,linux)](https://skillicons.dev)
