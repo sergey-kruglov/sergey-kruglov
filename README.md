@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **_Sergey_**, and I'm a **full-stack developer** with **6+ years** of experience.
+My name is **_Sergey_**, and I'm a **software developer** with **6+ years** of experience.
 
 - 🔭 I’m currently working on a _Template file generator_
 - 🌱 I’m currently learning _Algorithms and Data Structures_
