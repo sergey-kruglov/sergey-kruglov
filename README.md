@@ -8,4 +8,4 @@ My name is **_Sergey_**, and I'm a **software developer** with **6+ years** of e
 - 💻 Open for projects
 
 #### Skills
-[![Skills](https://skillicons.dev/icons?i=js,ts,py,go,java,php,dart,html,css,vue,nuxtjs,bootstrap,babel,nodejs,deno,express,nestjs,spring,laravel,mongodb,postgres,redis,mysql,sqlite,rabbitmq,aws,gcp,firebase,docker,kubernetes,reactivex,graphql,apollo,jest,flutter,bash,linux)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,py,go,java,php,dart,html,css,vue,nuxtjs,bootstrap,nodejs,deno,express,nestjs,spring,laravel,mongodb,postgres,redis,mysql,sqlite,rabbitmq,aws,firebase,kubernetes,graphql,flutter,bash,linux)](https://skillicons.dev)
